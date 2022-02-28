@@ -1,0 +1,26 @@
+body{
+  
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+img{
+
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+button{
+        color: white;
+        border-radius: 80px;
+        background-color: rgb(65, 159, 247);
+        position: absolute;
+        left: 380px;
+        top: 219px;
+        width: 70px;
+        height: 22px;
+
+       
+}

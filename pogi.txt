@@ -1,0 +1,201 @@
+.Group_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 468px;
+  height: 373px;
+  z-index: 28;
+}
+.School_Health_Monitoring_System {
+  font-size: 13.64px;
+  font-family: "Arial";
+  color: rgba(22, 55, 76, 0.522);
+  line-height: 1.163;
+  text-align: center;
+  -moz-transform: scale(0.95, 0.96);
+  -webkit-transform: scale(0.95, 0.96);
+  -ms-transform: scale(0.95, 0.96);
+  position: absolute;
+  left: 147.72px;
+  top: 349.568px;
+  z-index: 27;
+}
+.BESTLINK_COLLEGE_OF_THE_PHILIPPINES_SCHOOL_LOGIN {
+  font-size: 13.64px;
+  font-family: "Arial";
+  color: rgb(22, 55, 76);
+  line-height: 1.163;
+  text-align: center;
+  -moz-transform: scale(0.95, 0.96);
+  -webkit-transform: scale(0.95, 0.96);
+  -ms-transform: scale(0.95, 0.96);
+  position: absolute;
+  left: 46.908px;
+  top: 70.568px;
+  z-index: 26;
+}
+.Group_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 468px;
+  height: 373px;
+  z-index: 25;
+}
+.Rounded_Rectangle_2 {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 170px;
+  top: 168px;
+  width: 189px;
+  height: 22px;
+  z-index: 20;
+}
+.Rounded_Rectangle_1 {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 170px;
+  top: 141px;
+  width: 189px;
+  height: 22px;
+  z-index: 19;
+}
+.Pasword_ {
+  font-size: 13.64px;
+  font-family: "Impact";
+  color: rgba(0, 0, 0, 0.788);
+  line-height: 1.163;
+  text-align: center;
+  -moz-transform: scale(0.95, 0.96);
+  -webkit-transform: scale(0.95, 0.96);
+  -ms-transform: scale(0.95, 0.96);
+  position: absolute;
+  left: 113.188px;
+  top: 171.568px;
+  z-index: 18;
+}
+.Username {
+  font-size: 13.64px;
+  font-family: "Impact";
+  color: rgba(0, 0, 0, 0.788);
+  line-height: 1.163;
+  text-align: center;
+  -moz-transform: scale(0.95, 0.96);
+  -webkit-transform: scale(0.95, 0.96);
+  -ms-transform: scale(0.95, 0.96);
+  position: absolute;
+  left: 105.721px;
+  top: 144.068px;
+  z-index: 17;
+}
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: 222px;
+  top: 90px;
+  width: 46px;
+  height: 53px;
+  z-index: 16;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 86px;
+  top: 92px;
+  width: 311px;
+  height: 174px;
+  z-index: 14;
+}
+.Rectangle_1 {
+  background-color: rgb(255, 255, 255);
+  opacity: 0.961;
+  box-shadow: 0px 3px 16px 0px rgba(47, 49, 66, 0.55);
+  position: absolute;
+  left: 86px;
+  top: 113px;
+  width: 301px;
+  height: 125px;
+  z-index: 13;
+}
+.Group_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 468px;
+  height: 373px;
+  z-index: 11;
+}
+.ABOUT {
+  font-size: 13.64px;
+  font-family: "Arial";
+  color: rgb(215, 215, 215);
+  line-height: 1.163;
+  text-align: center;
+  -moz-transform: scale(0.95, 0.96);
+  -webkit-transform: scale(0.95, 0.96);
+  -ms-transform: scale(0.95, 0.96);
+  position: absolute;
+  left: 417.655px;
+  top: 4.068px;
+  z-index: 10;
+}
+.Rectangle_4 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 409px;
+  top: 6px;
+  width: 2px;
+  height: 12px;
+  z-index: 9;
+}
+.Rectangle_5 {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.278;
+  position: absolute;
+  left: 403px;
+  top: -1px;
+  width: 69px;
+  height: 25px;
+  z-index: 8;
+}
+.Layer_4 {
+  background-image: url("Layer 4.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 7;
+}
+.Layer_7 {
+  background-image: url("Layer 7.png");
+  opacity: 0.071;
+  position: absolute;
+  left: 275px;
+  top: -18px;
+  width: 298px;
+  height: 348px;
+  z-index: 6;
+}
+.Rectangle_3 {
+  background-image: -moz-linear-gradient( -90deg, rgb(134,196,227) 0%, rgba(255,255,255,0) 100%);
+  background-image: -webkit-linear-gradient( -90deg, rgb(134,196,227) 0%, rgba(255,255,255,0) 100%);
+  background-image: -ms-linear-gradient( -90deg, rgb(134,196,227) 0%, rgba(255,255,255,0) 100%);
+  position: absolute;
+  left: -25px;
+  top: 24px;
+  width: 519px;
+  height: 353px;
+  z-index: 5;
+}
+.Rectangle_2 {
+  background-color: rgb(0, 147, 221);
+  position: absolute;
+  left: -12px;
+  top: 0px;
+  width: 520px;
+  height: 36px;
+  z-index: 4;
+}
