@@ -1,0 +1,74 @@
+
+#root {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 5px;
+  }
+
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+
+.formto{
+    border-color: black;
+    border-style: solid; 
+    border-width: 0px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 10px black;
+    max-width: 400px;
+    height:auto;
+    width: 280px;
+    margin:auto; 
+    padding-top: 1em;
+    padding-bottom: 2em;
+    margin-top: 10px;
+
+    
+  }
+ .log{
+     color: #14a3c7;
+ }
+
+.b1{
+    border-radius: 20px;
+    width:250px;
+    margin: auto;
+    background-color:  #14a3c7 ;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  padding-left: px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.txt-field{
+    
+    width: auto;
+    padding: 10px 25px;
+    margin: 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  
+.lbl{
+    color:rgb(37, 37, 37);
+}
+
+.container{
+    padding : 3em;
+
+}
+
+@media (min-width:550px){
+    .container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}   
